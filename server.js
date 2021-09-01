@@ -1,5 +1,11 @@
 const http = require("http");
 
+<<<<<<< HEAD
+=======
+// comment
+// comment 1
+
+>>>>>>> 27bfef5... added comment2 in server.js
 const host = '0.0.0.0';
 const port = 8000;
 
